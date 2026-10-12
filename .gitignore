@@ -1,0 +1,6 @@
+.DS_Store
+# Built by tools/build-lua.sh
+tools/lua-5.2.4/
+tools/lua-5.2.4.tar.gz
+downloads/
+build/
